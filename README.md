@@ -11,4 +11,8 @@ Coroutines Kotlin Implementation
 - Coroutines Lifecycle
 - Coroutines Custom Scope
 - Coroutines Jop || Multible Jop
+- Coroutines Join Jop
+- Coroutines async, await, deferred
+- Coroutines Structured Concerency
+- Handling Exception in Coroutines
 - 
